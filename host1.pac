@@ -1,4 +1,4 @@
-// http://pac.itzmx.com
+// https://pac.itzmx.com
 
 var proxy = "PROXY 191.101.229.176:25;";
 
